@@ -1,0 +1,3 @@
+# Creating a Research Data Management Plan using chatGPT
+
+This repository contains a Jupyter Notebook that accompanies this [FocalPlane Blog post](https://focalplane.biologists.com/2023/11/06/creating-a-research-data-management-plan-using-chatgpt/) demonstrating how a semi-well structured project description and a specification of a Data Management Plan structure can be combined using chatGPT to build a Data Management Plan. 
